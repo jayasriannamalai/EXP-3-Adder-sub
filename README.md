@@ -143,7 +143,7 @@ The Half Adder and Half Subtractor were realized using Verilog HDL:
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ### Output
-<img width="1912" height="1079" alt="Screenshot 2026-10-21 144555" src="https://github.com/user-attachments/assets/ba52fa40-eda1-44ed-9788-c59f9a2a4487" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/7c70b05a-554f-44a8-b3c1-d5c2597c74d5" />
 
 
 ### Viva-Voce Questions
